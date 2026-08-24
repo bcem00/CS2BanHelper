@@ -1,0 +1,4 @@
+- Fetches CS2 Competitive Cooldown data without ever needing to launch the game itself.
+- No ban risk since it only mimicks the game launch
+- Displays detailed information like cooldown time, reason
+- Requires Steam login data with Steam Guard code, no login information stored. Runs locally
