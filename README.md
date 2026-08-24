@@ -2,3 +2,8 @@
 - No ban risk since it only mimicks the game launch
 - Displays detailed information like cooldown time, reason
 - Requires Steam login data with Steam Guard code, no login information stored. Runs locally
+
+To run, open up a terminal inside the repo directory. 
+Type "node banhelper.js" on the terminal and hit Enter.
+Enter Steam login information and Steam Guard OTP when needed. The cooldown status will appear.
+
