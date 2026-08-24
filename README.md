@@ -4,6 +4,11 @@
 - Requires Steam login data with Steam Guard code, no login information stored. Runs locally
 
 To run, open up a terminal inside the repo directory. 
-Type "node banhelper.js" on the terminal and hit Enter.
-Enter Steam login information and Steam Guard OTP when needed. The cooldown status will appear.
+Type 
+```
+node banhelper.js
+```
+on the terminal and hit Enter.
+Enter Steam login information and Steam Guard OTP when needed. The password area does not show up on the terminal, it has to be typed correctly. 
+The cooldown status will appear.
 
