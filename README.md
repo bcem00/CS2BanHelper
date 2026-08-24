@@ -3,7 +3,7 @@
 - Displays detailed information like cooldown time, reason
 - Requires Steam login data with Steam Guard code, no login information stored. Runs locally
 
-To run, open up a terminal inside the repo directory. 
+To run, simply open up a terminal inside the repo directory. 
 Type 
 ```
 node banhelper.js
