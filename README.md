@@ -9,6 +9,6 @@ Type
 node banhelper.js
 ```
 on the terminal and hit Enter.
-Enter Steam login information and Steam Guard OTP when prompted. The password area does not show up on the terminal, it has to be typed correctly. 
+Enter Steam login information and Steam Guard OTP when prompted.
 The cooldown status will appear.
 
