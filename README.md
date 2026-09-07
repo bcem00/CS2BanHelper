@@ -12,7 +12,7 @@ on the terminal and hit Enter.
 Enter Steam login information and Steam Guard OTP when prompted.
 The cooldown status will appear.
 
--Known bugs
+<h4>-Known bugs</h4>
 <br></br>
  -If the cooldown has ended but needs a confirmation in-game, the timer displays infinite.
 
