@@ -13,6 +13,6 @@ Enter Steam login information and Steam Guard OTP when prompted.
 The cooldown status will appear.
 
 <h4>-Known bugs</h4>
-<br></br>
+<br>
  -If the cooldown has ended but needs a confirmation in-game, the timer displays infinite.
 
